@@ -6,9 +6,9 @@
 
 ### endpoints:
 
-- list/country_code/
-- weather/eventid/
-- flights/eventid/user_airport_code/
+- list/country_code/ ---> this will return the top ten events in the country.
+- weather/eventid/ ---> this will return the weather of the location of the event.
+- flights/eventid/user_airport_code/ ---> this will return the list of depurture flights from the user airport to the nearest airport to the event and the back flight to the user airport from the event airport.
 
 ## Steps to Execute
 
